@@ -1,0 +1,11 @@
+com\xue\service\UserService.class
+com\xue\controller\UserController.class
+com\xue\service\impl\BookServiceImpl.class
+com\xue\controller\BookController.class
+com\xue\pojo\User.class
+com\xue\intercept\LoginCheck.class
+com\xue\pojo\Books.class
+com\xue\dao\user\UserMapper.class
+com\xue\service\BookService.class
+com\xue\dao\book\BookMapper.class
+com\xue\service\impl\UserServiceImpl.class
